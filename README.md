@@ -28,9 +28,7 @@
 
 <h2 align="center">Competitive Programming</h2>
 <p align="center">
-  <a href="https://codeforces.com/profile/_GitGud" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
-  </a>
+
   <a href="https://www.codechef.com/users/git_gud_04" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-B92B27?style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" />
   </a>
