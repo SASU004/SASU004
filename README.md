@@ -28,7 +28,9 @@
 
 <h2 align="center">Competitive Programming</h2>
 <p align="center">
-
+  <a href="https://codeforces.com/profile/_GitGud_" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+  </a>
   <a href="https://www.codechef.com/users/git_gud_04" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-B92B27?style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef" />
   </a>
@@ -39,9 +41,12 @@
 
 ---
 
+<h2 align="center">GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SASU004&show_icons=true&theme=transparent&hide_border=true" alt="Shaswata's GitHub Stats" height="160px" />
+</p>
 
-
-
+---
 
 <h2 align="center">📫 Reach Me On</h2>
 <p align="center">
@@ -55,4 +60,4 @@
 
 ---
 
-<p align="center"><i>“Just trying do better”</i></p>
+<p align="center"><i>“just trying do better”</i></p>
