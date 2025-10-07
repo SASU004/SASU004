@@ -41,12 +41,9 @@
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SASU004&show_icons=true&theme=transparent&hide_border=true" alt="Shaswata's GitHub Stats" height="160px" />
-</p>
 
----
+
+
 
 <h2 align="center">📫 Reach Me On</h2>
 <p align="center">
