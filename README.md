@@ -55,4 +55,4 @@
 
 ---
 
-<p align="center"><i><b>“Just trying do better”<b></i></p>
+<p align="center"><i><b>“Just trying to do better”<b></i></p>
