@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shaswata Ghosh</h1>
 <h3 align="center">B.Tech in Computer Science and Engineering (AI & ML)<br>Dr. B. C. Roy Engineering College</h3>
 
----
+
 
 <h2 align="center">Languages</h2>
 <p align="center">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
----
+
 
 
 
@@ -52,6 +52,6 @@
   </a>
 </p>
 
----
+
 
 <p align="center"><i><b>“Just trying to do better”<b></i></p>
