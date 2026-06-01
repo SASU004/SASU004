@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<text x="40" y="70" fill="#c792ea" font-size="36" font-family="monospace">README.md</text>
+<text x="60" y="150" fill="#c792ea" font-size="24" font-family="monospace">&gt; Just trying to do better.</text>
+<text x="520" y="120" fill="#ffffff" font-size="28" font-family="monospace">Shaswata Ghosh</text>
+<text x="520" y="170" fill="#8b949e" font-size="20" font-family="monospace">Computer Science & Engineering (AI & ML)</text>
+<text x="520" y="260" fill="#ffa657" font-size="20" font-family="monospace">Languages : C++, Python, HTML, CSS</text>
+<text x="520" y="310" fill="#ffa657" font-size="20" font-family="monospace">Tools     : Git, GitHub, VS Code, Cursor</text>
+<text x="520" y="360" fill="#ffa657" font-size="20" font-family="monospace">Profiles  : Codeforces, LeetCode, AtCoder, CodeChef</text>
+<text x="520" y="410" fill="#ffa657" font-size="20" font-family="monospace">GitHub    : SASU004</text>
+</svg>
