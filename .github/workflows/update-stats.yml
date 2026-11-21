@@ -1,4 +1,4 @@
-```yaml
+
 name: Update Private + Public Stats
 
 on:
@@ -45,4 +45,3 @@ jobs:
             git commit -m "Update total commit statistics"
             git push
           )
-```
