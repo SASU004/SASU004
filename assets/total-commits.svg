@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+    width="400" height="150" viewBox="0 0 400 150">
+      <rect width="400" height="150" rx="12"
+      fill="#282a36" stroke="#6272a4"/>
+      <text x="25" y="40" fill="#bd93f9"
+      font-size="17" font-family="Arial">
+        TOTAL COMMITS
+      </text>
+      <text x="25" y="100" fill="#f8f8f2"
+      font-size="43" font-weight="bold"
+      font-family="Arial">
+        372
+      </text>
+      <text x="25" y="128" fill="#8be9fd"
+      font-size="12" font-family="Arial">
+        SASU004 · PUBLIC + PRIVATE
+      </text>
+    </svg>
